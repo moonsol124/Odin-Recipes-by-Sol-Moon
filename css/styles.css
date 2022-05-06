@@ -1,0 +1,28 @@
+.body {
+    background-color: RGB(255, 209, 220);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 400;
+}
+
+.title {
+    font-size: 60px;
+}
+
+.description{
+    font-size: 35px;
+    text-align: center
+}
+.img {
+    height: auto;
+    width: 500px;
+}
+
+.recipe-container {
+    max-width: 600px;
+    margin:0 auto;
+    background-color: #c23d53;
+    text-align: start;
+    font-size: 25px;
+}
+
